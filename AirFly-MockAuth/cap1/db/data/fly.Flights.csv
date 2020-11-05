@@ -1,0 +1,27 @@
+CARRID,CONNID,CITYFROM,CITYTO,DISTANCE
+LH,400,Frankfurt,New york,6162
+AA,17,New york,San francisco,2572
+AZ,555,Rome,Frankfurt,845
+LH,2402,Frankfurt,Berlin,555
+UA,941,Frankfurt,San francisco,5685
+AZ,789,Tokyo,Rome,6130
+LH,402,Frankfurt,New york,6162
+QF,5,Singapore,Frankfurt,10000
+SQ,15,San francisco,Singapore,8452
+SQ,2,Singapore,San francisco,8452
+LH,401,New york,Frankfurt,6162
+DL,106,New york,Frankfurt,3851
+JL,407,Tokyo,Frankfurt,9100
+JL,408,Frankfurt,Tokyo,9100
+AA,64,San francisco,New york,2572
+DL,1699,New york,San francisco,2572
+DL,1984,San francisco,New york,2572
+LH,2407,Berlin,Frankfurt,555
+UA,3504,San francisco,Frankfurt,5685
+AZ,788,Rome,Tokyo,6130
+AZ,790,Rome,Osaka,6030
+QF,6,Frankfurt,Singapore,10000
+SQ,158,Singapore,Jakarta,560
+SQ,988,Singapore,Tokyo,3125
+UA,3516,New york,Frankfurt,6162
+UA,3517,Frankfurt,New york,6162

@@ -1,0 +1,15 @@
+{
+    "requires":{
+        "auth": {
+			"passport":{
+				"strategy":"mock",
+				"users":{
+					"scott":{
+						"password":"tiger",
+						"roles":["authenticated-user", "admin", "builder"]
+					}
+				}
+			}
+		}
+    }
+}

@@ -1,0 +1,16 @@
+### CDS Service Paths
+GET http://localhost:4004
+
+
+### CDS Service Entities
+GET http://localhost:4004/international-flights
+
+
+### Entity Airlines
+GET http://localhost:4004/international-flights/Airlines
+
+
+### Entity Flights
+GET http://localhost:4004/international-flights/Flights
+Authorization: Basic scott tiger
+Content-Type: application/json
