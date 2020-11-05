@@ -1,6 +1,6 @@
 # CDS Service with Mock Authorization
-**--currentlt in the Folder /user/projects/**
-`$ cds init cap1`
+**--currentlt in the Folder /user/projects/**  
+`$ cds init cap1`  
 `$ cd cap1`
 
 							
